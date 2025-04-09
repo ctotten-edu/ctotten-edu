@@ -1,5 +1,5 @@
 ## Hi there 
-
+```
            __________
          .'----------`.
          | .--------. |
@@ -12,7 +12,7 @@
 |     /  %%%%%%%%%%%%%%  \                            |
 |     ^^^^^^^^^^^^^^^^^^^^                            |
 +-----------------------------------------------------+
-
+```
 - 🔭 I’m currently working on advancing my career in computers and technology!
 - 🌱 I’m currently learning how to repair computer components at a PC repair shop
 - 😄 Pronouns: He/They
